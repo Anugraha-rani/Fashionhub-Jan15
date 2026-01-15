@@ -1,0 +1,7 @@
+.navbar .navbar-nav .nav-link:hover{
+    background-color: green;
+    color: white;
+}
+#bg{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/625/844/original/geometric-abstract-light-blue-background-for-website-wallpapers-bussines-templates-vector.jpg);
+}
